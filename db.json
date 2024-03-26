@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "John",
+      "username": "@johns",
+      "group_name": "React",
+      "group_number": "n45",
+      "phone": "+9984858843",
+      "socails": "t.me/devjohns"
+    },
+    {
+      "id": 2,
+      "name": "Mark",
+      "username": "@marks",
+      "group_name": "Vue",
+      "group_number": "n38",
+      "phone": "+0984858843",
+      "socails": "t.me/devmark"
+    },
+    {
+      "id": 3,
+      "name": "Clark",
+      "username": "@clarkus",
+      "group_name": "java",
+      "group_number": "n28",
+      "phone": "+6598858843",
+      "socails": "t.me/clarkus"
+    },
+    {
+      "id": 4,
+      "name": "Mark",
+      "username": "@marks",
+      "group_name": "Vue",
+      "group_number": "n38",
+      "phone": "+0984858843",
+      "socails": "t.me/devmark"
+    }
+  ]
+}
